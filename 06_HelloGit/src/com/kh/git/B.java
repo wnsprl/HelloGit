@@ -31,5 +31,4 @@ public class B {
 		return "B [b1=" + b1 + ", b2=" + b2 + "]";
 	}
 	
-	
 }
